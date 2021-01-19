@@ -755,8 +755,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                  <text x="60" y="60" dominant-baseline="central">99</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
+                  <text x="60" y="60" dominant-baseline="central">98</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -2812,7 +2812,7 @@
                   
                   <div class="name">
                     <span>h2non/imaginary</span>
-                    <span>starred 4 hours ago</span>
+                    <span>starred 5 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2859,7 +2859,7 @@
                   
                   <div class="name">
                     <span>disintegration/gift</span>
-                    <span>starred 4 hours ago</span>
+                    <span>starred 5 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2906,7 +2906,7 @@
                   
                   <div class="name">
                     <span>disintegration/imaging</span>
-                    <span>starred 4 hours ago</span>
+                    <span>starred 5 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2953,7 +2953,7 @@
                   
                   <div class="name">
                     <span>h2non/bimg</span>
-                    <span>starred 4 hours ago</span>
+                    <span>starred 5 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3084,7 +3084,7 @@
                   
                   <div class="name">
                     <span>nektos/act</span>
-                    <span>starred 6 days ago</span>
+                    <span>starred 7 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
