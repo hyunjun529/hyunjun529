@@ -1276,7 +1276,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.58 s
+                0.27 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1286,7 +1286,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.26 s
+                0.27 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1306,7 +1306,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.26 s
+                0.27 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1316,7 +1316,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.83 s
+                0.95 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1326,7 +1326,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0 
+                0.09 
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ssut/ffmpeg-on-apple-silicon</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
